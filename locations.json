@@ -1,4 +1,4 @@
-const LOCATIONS = [
+[
 { "region": "Northland", "city": "Abbey Caves, Whangarei" },
 { "region": "Waikato", "city": "Acacia Bay, Taupo" },
 { "region": "Northland", "city": "Ahipara, Far North" },
